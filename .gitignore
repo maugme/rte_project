@@ -1,0 +1,5 @@
+*/__pycache__/
+
+.venv
+
+Update_config_file/application*2.15.yaml
